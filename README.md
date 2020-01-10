@@ -29,7 +29,7 @@ VPC/ALB/EC2/
 #### VPN
 Conoha
 ### その他ツール
-Git/Github/Bitbucket/Backlog/Trello  
+MyBatis/Git/Github/Bitbucket/Backlog/Trello  
 ## 勉強中技術
 ### 言語
 Go/Scala  
