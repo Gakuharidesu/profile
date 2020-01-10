@@ -31,7 +31,7 @@ Conoha
 ### その他ツール
 Git/Github/Bitbucket/Backlog/Trello  
 
-## 勉強中技術(実務外)
+## 勉強中技術
 ### 言語
 Go/Scala  
 ### FW/Library
