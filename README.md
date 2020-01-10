@@ -16,31 +16,29 @@
 ## 経験技術(実務)
 ### 言語
 Java/PHP/JavaScript/TypeScript/Node.js/Python  
-### FW/Library
-#### backend
-Spring boot/Laravel/Struts  
-#### frontend
+### フレームワーク/ライブラリ
+#### バックエンド
+Spring boot/Laravel/Struts/Mecab  
+#### フロントエンド 
 Nuxt.js/Vue.js/jQuery  
-### middleware
+### ミドルウェア
 MySQL/PostgreSQL/Oracle/Docker/RabbitMQ/Concourse/Screwdriver  
-### infrastructure
+### インフラ
 #### AWS
 VPC/ALB/EC2/  
 #### VPN
 Conoha
 ### その他ツール
 Git/Github/Bitbucket/Backlog/Trello  
-
 ## 勉強中技術
 ### 言語
 Go/Scala  
-### FW/Library
-#### backend
+### フレームワーク/ライブラリ
+#### バックエンド
 Play  
-#### frontend
+#### フロントエンド 
 React/Redux  
-### infrastructure
+### インフラ
 GCP  
-
 ## 連絡先
 gakuharikouta@gmail.com  
