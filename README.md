@@ -1,7 +1,7 @@
 # profile
 ## 概要
 フリーランスエンジニアのガクハリです。  
-都内在住の27歳、Webエンジニア3年目です。  
+都内在住の27歳、Webエンジニア4年目です。  
 法人用資産管理、クラウドストレージ、インフルエンサーマーケなどのシステムの開発に従事してきました。  
 要件定義〜システムテストまで経験済みですが、  
 基本的にサーバーサイドにおける詳細設計〜結合テストまでを担当することが多かったです。  
@@ -15,11 +15,11 @@
 
 ## 経験技術(実務)
 ### 言語
-Java/PHP/JavaScript/TypeScript/Node.js/Python  
+Java/PHP/JavaScript/C#/Ruby/TypeScript/Node.js/Python  
 ### フレームワーク/ライブラリ
 #### バックエンド
-Spring boot/Laravel/Struts/Mecab  
-#### フロントエンド 
+Spring boot/Laravel/Ruby on Rails/ASP.NET core MVC/Struts/Mecab  
+#### フロントエンド  
 Nuxt.js/Vue.js/jQuery  
 ### ミドルウェア
 MySQL/PostgreSQL/Oracle/Docker/RabbitMQ/Concourse/Screwdriver  
